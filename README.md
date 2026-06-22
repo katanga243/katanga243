@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/katangajeanflex" target="blank"><img src="https://img.shields.io/twitter/follow/katangajeanflex?logo=twitter&style=for-the-badge" alt="katangajeanflex" /></a> </p>
 
-- 🔭 I’m currently working on **OKOA FRESH**
+- 🔭 I’m currently working with  **NETFLEX SERVICES a startup tech company for innovation using technology**
 
-- 📫 How to reach me **johnkatanga2000@gmail.com**
+- 📫 How to reach me **johnkatanga2000@gmail.com , servicesnetflex@gmail.com, +393282480744**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

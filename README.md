@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Dedieu Katanga</h1>
-<h3 align="center">A passionate SOFTWARE developer from ITALY</h3>
+<h3 align="center">A passionate Computer Scientist from ITALY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katanga243&label=Profile%20views&color=0e75b6&style=flat" alt="katanga243" /> </p>
 

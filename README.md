@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://x.com/jeanflexkatanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flexkatanga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/katangajeandedieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/katangajeandedieu" height="30" width="40" /></a>
-<a href="https://instagram.com/katanga_jean_flex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katanga_jean_flex" height="30" width="40" /></a>
+<a href="https://instagram.com/katangajeanflex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="katanga_jean_flex" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/70132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="70132" height="30" width="40" /></a>
 </p>
 
